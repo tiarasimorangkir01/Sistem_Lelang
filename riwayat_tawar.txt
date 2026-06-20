@@ -1,0 +1,3 @@
+ID Barang : 4 | Nama Barang : Koin Hindia Belanda 1 Gulden Tahun 1928 | Penawar : Tiara | Tawaran : Rp 26000000
+ID Barang : 4 | Nama Barang : Koin Hindia Belanda 1 Gulden Tahun 1928 | Penawar : Hudini | Tawaran : Rp 27000000
+ID Barang : 3 | Nama Barang : Mesin ketik Remington No.5 Tahun 1900 | Penawar : Tiara Betsaida Simorangkir | Tawaran : Rp 160000000

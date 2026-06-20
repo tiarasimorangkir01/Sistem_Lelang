@@ -1,0 +1,3 @@
+1;Jam Saku Patek Philippe Vintage;Jam Antik;750000000;750000000;Belum Ada
+2;Vas Dinasti Qing Abad kee-19;Keramik Antik;1500000000;1500000000;Belum Ada
+3;Mesin ketik Remington No.5 Tahun 1900;Mesin ketik Antik;150000000;150000000;Belum Ada
