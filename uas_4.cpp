@@ -418,12 +418,12 @@ int main() {
         cout << "1. Tambah Barang\n";
         cout << "2. Tampilkan Barang Aktif\n";
         cout << "3. Cari Barang\n";
-        cout << "4. Tutup Pelelangan\n";
-        cout << "5. Lakukan Penawaran\n";
+        cout << "4. Lakukan Penawaran\n";
+        cout << "5. Tampilkan Riwayat Tawar\n";
         cout << "6. Riwayat Pemenang\n";
         cout << "7. Statistik\n";
         cout << "8. Simpan Data\n";
-        cout << "9. Tampilkan Riwayat Tawar\n";
+        cout << "9. Tutup Pelelangan\n";
         cout << "0. Keluar\n";
         cout << "=========================================";
 
@@ -454,11 +454,11 @@ int main() {
         }
 
         case 4:
-            tutupPelelangan();
+            pilihBarangLelang();
             break;
 
         case 5:
-            pilihBarangLelang();
+            tampilkanRiwayatTawar();
             break;
 
         case 6:
@@ -474,7 +474,7 @@ int main() {
             break;
 
         case 9:
-            tampilkanRiwayatTawar();
+            tutupPelelangan();
             break;
 
         case 0:
