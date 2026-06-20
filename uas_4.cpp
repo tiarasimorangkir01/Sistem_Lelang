@@ -420,10 +420,10 @@ int main() {
         cout << "3. Cari Barang\n";
         cout << "4. Lakukan Penawaran\n";
         cout << "5. Tampilkan Riwayat Tawar\n";
-        cout << "6. Riwayat Pemenang\n";
-        cout << "7. Statistik\n";
-        cout << "8. Simpan Data\n";
-        cout << "9. Tutup Pelelangan\n";
+        cout << "6. Statistik\n";
+        cout << "7. Simpan Data\n";
+        cout << "8. Tutup Pelelangan\n";
+        cout << "9. Riwayat Pemenang\n";
         cout << "0. Keluar\n";
         cout << "=========================================";
 
@@ -462,19 +462,19 @@ int main() {
             break;
 
         case 6:
-            tampilkanRiwayat();
-            break;
-
-        case 7:
             statistik();
             break;
 
-        case 8:
+        case 7:
             simpanData();
             break;
 
-        case 9:
+        case 8:
             tutupPelelangan();
+            break;
+
+        case 9:
+            tampilkanRiwayat();
             break;
 
         case 0:
